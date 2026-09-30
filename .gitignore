@@ -16,6 +16,7 @@ lib_smsmms_android/build/*
 .externalNativeBuild
 .cxx
 *.aab
+temp_auto_push.bat
 *.apk
 local.properties
 keystore.properties
@@ -35,3 +36,4 @@ gradle.properties
 /app/.idea/misc.xml
 /app/.idea/runConfigurations.xml
 /app/.idea/vcs.xml
+branch_structure.json
